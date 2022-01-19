@@ -9,6 +9,8 @@
 
 // floyd's turtle and hare; Space O(1)
 // https://leetcode.com/problems/linked-list-cycle-ii
+// a very very good explanation on the algorithm: 
+// https://stackoverflow.com/questions/2936213/how-does-finding-a-cycle-start-node-in-a-cycle-linked-list-work
 class Solution 
 {
     public:
